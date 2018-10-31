@@ -1,2 +1,2 @@
 # naive_projects
-projects made in freasher and sophomore year
+projects made in fresher and sophomore year
